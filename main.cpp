@@ -1,5 +1,5 @@
 #include <iostream>
-#include "orderedListType.h"
+#include "orderedLinkedList.h"
 
 using namespace std;
 
