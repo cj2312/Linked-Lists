@@ -1,5 +1,5 @@
-#ifndef H_OrderedListType
-#define H_OrderedListType
+#ifndef H_OrderedLinkedList
+#define H_OrderedLinkedList
 
 #include "linkedList.h"
 
